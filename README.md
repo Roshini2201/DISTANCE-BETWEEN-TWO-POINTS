@@ -29,3 +29,4 @@ print("{:.2f}".format(result))
 ![image](https://github.com/Roshini2201/DISTANCE-BETWEEN-TWO-POINTS/assets/154105318/c6f0ce7c-0f5f-4e4f-b788-660e684d5426)
 
 ### RESULT:
+Thus the distance of the two points is sucessfully executed and displayed.
